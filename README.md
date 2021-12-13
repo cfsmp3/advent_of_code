@@ -11,7 +11,8 @@ I'm just creating this repo so I don't lose the code, it's a mess but
 it's been fun.
 
 PS. Since I'm not competing (I'm not around each day when it starts) my
-commits will be later.
+commits will probably be late. Plus I'm traveling to Spain so I'll need to
+catch up for days 14 and 15 at a later date.
 
 All I promise is that all code is original.
 
